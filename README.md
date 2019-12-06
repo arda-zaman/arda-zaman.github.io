@@ -1,2 +1,2 @@
 # arda-zaman.github.io
-My Personel Simple Web Page
+My Personal Simple Web Page
